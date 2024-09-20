@@ -1,0 +1,31 @@
+.Food1{
+    grid: header;
+}
+.Food2{
+    grid: main;
+}
+.Food3{
+    grid: menu;
+}
+.container-food{
+    display: grid;
+    grid-template-areas:'header header header main main main'
+    'menu menu menu menu menu menu';
+}
+th{
+    text-align: left;
+}
+img{
+    padding: 5px;
+}
+button{
+    right: 20px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #fff;
+    border: none;
+    padding: 12px 30px;
+    border-radius: 6px;
+    background-color: #4070f4;
+    cursor: pointer;
+}

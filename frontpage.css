@@ -1,0 +1,39 @@
+.foodies{
+    display: black;
+    padding: 20px 0px;
+    background-color: gray;
+    color: white;
+    transition-duration: 1s;
+    text-align: center;
+    width: 40px;
+}
+.foodies:hover{
+    background-color: lightsteelblue;
+    color: blue;
+    cursor: pointer;
+    transform: translateX();
+}
+p{
+    color: pink;
+    padding: 60px 0px;
+}
+p:hover{
+    color: white;
+}
+footer{
+    background-color: black;
+    padding: 0px;
+    margin: 0px;
+    color: white;
+}
+p{
+    padding: 0px;
+}
+link{
+    margin: 10px;
+    border: 1px solid brown;
+    padding: 5px;
+}
+.img1{
+    filter: drop-shadow(0px 0px 80px orange);
+}

@@ -1,0 +1,41 @@
+h1{
+    height: 100px;
+    color: red;
+}
+.form{
+    text-align: center;
+    border: 3px solid #e1c8c8;
+    padding: 20px 0px;
+    margin: 0px 600px;
+    margin-top: 30px;
+    border-radius: 10px;
+    box-shadow: 8px 8px #f2f2f2;
+    background-color: pink;
+}
+label{
+    font-size: 20px;
+    color: black;
+}
+
+input[type=text],[type=password]{
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+}
+button{
+    background-color: sandybrown;
+    color: brown;
+    padding: 10px;
+    border: none;
+}
+ul{
+    list-style-type: none;
+    padding-top: 10px;
+}
+li{
+    float: left;
+    margin: 10px;
+}
+.img2{
+    filter: drop-shadow(0px 0px 80px orange);
+}

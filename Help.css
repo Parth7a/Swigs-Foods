@@ -1,0 +1,14 @@
+.container-help{
+    margin: 30px;
+    padding: 10px;
+    border: 1px solid orangered;
+    border-radius: 1px;
+    background-color: rgb(148, 234, 234);
+} 
+.help1{
+    margin: 30px;
+    padding: 10px;
+    border: 1px solid black;
+    background-color: aliceblue;
+    border-radius: 1px;
+}
